@@ -1,0 +1,2 @@
+Lab10:	main.c list.c files.c global.h
+	gcc -o Lab10 main.c list.c files.c -lpthread
